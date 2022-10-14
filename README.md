@@ -22,3 +22,15 @@ This repo contains work related to [Patika.dev](https://app.patika.dev/) Front-E
 - In this homework ,I created an HTML page where I make a explanation about myself.
 
 - [Click to go to homework-2!](https://github.com/yarenkarakus/patika.dev/tree/master/html/homework-2)
+
+### HTML Homework - 3
+
+-
+
+-
+
+### HTML Finishing Work
+
+- In this study, I strengthen what I learned during HTML training by creating homepages, about us and contact pages.
+
+- [Click to go to finishing work!](https://github.com/yarenkarakus/patika.dev/tree/master/html/finishing%20work)
