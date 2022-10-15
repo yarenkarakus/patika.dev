@@ -1,0 +1,46 @@
+body {
+  background-color: plum;
+}
+.header-text {
+  font-weight: bold;
+  font-size: italic;
+  color: brown;
+}
+.summary-text {
+  font-weight: normal;
+  font-size: italic;
+}
+.span-text {
+  font-weight: bold;
+  font-size: italic;
+}
+.ml-class {
+  margin-left: -30 px;
+}
+.property-list {
+  text-align: right;
+  list-style-type: square;
+  text-decoration: underline;
+}
+.li-text {
+  padding-right: 20%;
+}
+.span-text {
+  color: brown;
+}
+.article-m135 {
+  margin-left: 38%;
+}
+
+.h4-border {
+  border-style: hidden;
+  border-radius: 7px;
+  background-color: brown;
+  color: white;
+  font-weight: bold;
+  display: inline;
+}
+.h2-border {
+  margin-left: 70%;
+  font-family: "Courier New", Courier, monospace;
+}
