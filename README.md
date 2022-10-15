@@ -25,9 +25,9 @@ This repo contains work related to [Patika.dev](https://app.patika.dev/) Front-E
 
 ### HTML Homework - 3
 
--
+-In this homework ,I explained the recipe with my knowledge of HTML and CSS.
 
--
+-[Clicl to go to homework-3!](https://github.com/yarenkarakus/patika.dev/tree/master/html/homework-3)
 
 ### HTML Finishing Work
 
